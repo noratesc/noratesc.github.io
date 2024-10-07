@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noratesc.github.io/sitemap.html.gz
+Sitemap: https://noratesc.github.io/app/sitemap.html.gz
+Sitemap: https://noratesc.github.io/assets/sitemap.html.gz
+Sitemap: https://noratesc.github.io/css/sitemap.html.gz
+Sitemap: https://noratesc.github.io/data/sitemap.html.gz
+Sitemap: https://noratesc.github.io/includes/sitemap.html.gz
+Sitemap: https://noratesc.github.io/item/sitemap.html.gz
+Sitemap: https://noratesc.github.io/src/sitemap.html.gz
